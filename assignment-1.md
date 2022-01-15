@@ -3,12 +3,11 @@ output:
   html_document: 
     keep_md: yes
 ---
-title: "Reproducible Research-Project 1"
-author: "Ting"
-date: "08/01/2022"
-output: 
-  html_document: 
-    keep_md: yes
+
+# Reproducible Research-Project 1
+
+
+   
 ---
 
 
